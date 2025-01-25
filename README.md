@@ -1,6 +1,9 @@
 ![Image](/assets/poster.webp)
 
-С помощью этого скрипта [IMDB](https://www.imdb.com/), [TMDB](https://www.themoviedb.org/), [Kinopoisk](https://www.kinopoisk.ru/) и [Letterboxd](https://letterboxd.com/) станут бесплатными онлайн-кинотеатрами! На каждой странице с фильмом или сериалом в левом верхнем углу появится флажок. Нажав на него, вы откроете плеер с фильмом.
+
+Этот скрипт превращает [IMDB](https://www.imdb.com/), [TMDB](https://www.themoviedb.org/), [Kinopoisk](https://www.kinopoisk.ru/) и [Letterboxd](https://letterboxd.com/) в бесплатные онлайн-кинотеатры.
+На каждой странице с фильмом или сериалом в левом верхнем углу появится флажок. Нажав на него, вы откроете плеер с фильмом.
+Также теперь вы можете искать нужный контент с помощью встроенного поисковика [Tape Operator](https://tapeop.dev/) благодаря неофициальному обновлению скрипта.
 
 **RUS** | [ENG](README.eng.md)
 
