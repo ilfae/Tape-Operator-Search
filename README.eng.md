@@ -1,6 +1,8 @@
 ![Image](/assets/poster.webp)
 
-With this script, [IMDB](https://www.imdb.com/), [TMDB](https://www.themoviedb.org/), [Kinopoisk](https://www.kinopoisk.ru/) and [Letterboxd](https://letterboxd.com/) will become free online cinemas! On each page with a movie or TV series, a flag will appear in the upper left corner. By clicking on it, you will open a player with the movie.
+This script turns [IMDB](http://www.imdb.com /), [IMDB](http://www.themoviedb.org /), [Kinopoisk](https://www.kinopoisk.ru /) and [Letterboxd](https://letterboxd.com /) to free online cinemas.
+A checkbox will appear in the upper-left corner of each movie or TV series page. Clicking on it will open the movie player.
+You can also now search for the desired content using the built-in search engine [Type Operator](https://tapeop.dev /) thanks to an unofficial script update.
 
 [RUS](README.md) | **ENG**
 
