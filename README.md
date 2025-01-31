@@ -1,4 +1,4 @@
-![Image](/assets/poster.webp)
+![Image](/assets/1.png)
 
 
 Этот скрипт превращает [IMDB](https://www.imdb.com/), [TMDB](https://www.themoviedb.org/), [Kinopoisk](https://www.kinopoisk.ru/) и [Letterboxd](https://letterboxd.com/) в бесплатные онлайн-кинотеатры.
