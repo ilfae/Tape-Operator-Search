@@ -1,4 +1,4 @@
-![Image](/assets/poster.webp)
+![Image](/assets/1.png)
 
 This script turns [IMDB](http://www.imdb.com/), [IMDB](http://www.themoviedb.org/), [Kinopoisk](https://www.kinopoisk.ru/) and [Letterboxd](https://letterboxd.com/) to free online cinemas.
 A checkbox will appear in the upper-left corner of each movie or TV series page. Clicking on it will open the movie player.
